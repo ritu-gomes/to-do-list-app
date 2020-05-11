@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background: rgb(253, 253, 47);
+    background: rgba(248, 248, 84, 0.945);
 }
 
 h1{
@@ -16,7 +16,8 @@ h1{
 .creating .ourform{
     text-align: center;
 }
-.creating .ourform input{
+.creating .ourform input,
+.creating .ourform button{
     height: 2rem;
     padding: 0 1rem;
     margin-bottom: 3rem;
