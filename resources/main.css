@@ -4,7 +4,9 @@
     box-sizing: border-box;
 }
 body{
-    background: rgba(248, 248, 84, 0.945);
+    background: linear-gradient(to right bottom, rgb(212, 38, 67),rgb(124, 28, 124));
+    background-repeat: no-repeat;
+    height: 100vh;
 }
 
 h1{
